@@ -40,14 +40,14 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Yahoo!!! 😎😎😎😎😎</h2>
+			<h2>Yahoo!!! I cam see u from web</h2>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; @sairam nadipalli</p>
 	</footer>
 </div>
 
