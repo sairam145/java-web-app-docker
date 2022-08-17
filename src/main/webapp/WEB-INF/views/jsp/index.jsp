@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Yahoo!! I cam see u from web</h2>
+			<h2>Finally!! I cam see u from web</h2>
 		</div>	
 	</div>
 
